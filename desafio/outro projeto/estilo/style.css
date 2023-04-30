@@ -110,13 +110,13 @@ main strong{
 div.video{ 
     background-color: #063d1e;
      margin: 20px -20px 30px -20px;
-     padding: 30px;
-     padding-bottom: 80%;
+     padding: 20px;
+     padding-bottom: 90%;
      position: relative;
 }
 div.video > iframe{
 position: absolute;
-top: 10%;
+top: 20%;
 left: 5%;
 width: 90%;
 }
