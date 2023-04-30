@@ -16,15 +16,15 @@
     --cor03: #3CB566;
     --cor04: #063d1e;
     --fonte-padrao: arial, verdana, helvetica, sans-serif;
-    --fonte-destaque:'Poppins','sem serifa','cursive';
 }
+   
 *{
     margin: 0px;
     padding: 0px;
 }
 body {
     background-color: var(--cor01);
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-padrao);
 }
 header{
     background-image: linear-gradient(to bottom,#018339, rgb(76, 152, 76), rgb(92, 174, 92),green);
